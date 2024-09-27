@@ -1,11 +1,11 @@
 # Released between 2020-01-01 and 2023-12-31
 
 
-{
+jsonData = {
     "page": 1,
     "results": [
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/2wrdcWrAN53Pl7ahBWMIKMzXBFF.jpg",
             "genre_ids": [
                 16,
@@ -22,12 +22,12 @@
             "poster_path": "/sQE0VegwDa0GHjawfNRr1sFgVE2.jpg",
             "release_date": "2023-10-11",
             "title": "Mantra Warrior: The Legend of The Eight Moons",
-            "video": false,
+            "video": False,
             "vote_average": 6.523,
             "vote_count": 22
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/AjykZQ9ncgyJoHpMTquDRUAv5VO.jpg",
             "genre_ids": [
                 18
@@ -40,12 +40,12 @@
             "poster_path": "/7Z2K08J0WantJHNa0vLTOmii41l.jpg",
             "release_date": "2021-10-08",
             "title": "Pleasure",
-            "video": false,
+            "video": False,
             "vote_average": 6.227,
             "vote_count": 514
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/wQ60FXOHnVimJo6Bpdk6VU0qaP6.jpg",
             "genre_ids": [
                 12,
@@ -59,12 +59,12 @@
             "poster_path": "/zceLrHeYOgJHw1tw6MUi15N2NUz.jpg",
             "release_date": "2023-06-22",
             "title": "The Quest for Tom Sawyer's Gold",
-            "video": false,
+            "video": False,
             "vote_average": 4.056,
             "vote_count": 9
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
             "genre_ids": [
                 878,
@@ -79,12 +79,12 @@
             "poster_path": "/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
             "release_date": "2023-06-06",
             "title": "Transformers: Rise of the Beasts",
-            "video": false,
+            "video": False,
             "vote_average": 7.3,
             "vote_count": 4481
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/lntyt4OVDbcxA1l7LtwITbrD3FI.jpg",
             "genre_ids": [
                 18,
@@ -98,12 +98,12 @@
             "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
             "release_date": "2023-06-08",
             "title": "My Fault",
-            "video": false,
+            "video": False,
             "vote_average": 7.936,
             "vote_count": 2909
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/aGQIIKpAPYNtziFrCCBBgIzmUXe.jpg",
             "genre_ids": [
                 27
@@ -116,12 +116,12 @@
             "poster_path": "/6QIeZuKirT4cXVpW7ilVZmcRmdK.jpg",
             "release_date": "2023-06-06",
             "title": "The Devil Comes at Night",
-            "video": false,
+            "video": False,
             "vote_average": 7.1,
             "vote_count": 10
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/x2thJwMJ6oGlhn7UC4vSwHltEw0.jpg",
             "genre_ids": [
                 28,
@@ -136,12 +136,12 @@
             "poster_path": "/xVbEJzdMxIQqpuLgla0hU8qr9mt.jpg",
             "release_date": "2023-05-12",
             "title": "Hunting Games",
-            "video": false,
+            "video": False,
             "vote_average": 4.107,
             "vote_count": 14
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/2KGxQFV9Wp1MshPBf8BuqWUgVAz.jpg",
             "genre_ids": [
                 16,
@@ -158,12 +158,12 @@
             "poster_path": "/ldfCF9RhR40mppkzmftxapaHeTo.jpg",
             "release_date": "2023-12-06",
             "title": "Migration",
-            "video": false,
+            "video": False,
             "vote_average": 7.445,
             "vote_count": 1710
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/kwzNUM4yZ26XuNAPSyaWwJeWRP4.jpg",
             "genre_ids": [
                 28,
@@ -178,12 +178,12 @@
             "poster_path": "/mg6YkwftQOJjpT2ygYlCi11LWeC.jpg",
             "release_date": "2023-05-18",
             "title": "The Smoke Master",
-            "video": false,
+            "video": False,
             "vote_average": 7.545,
             "vote_count": 67
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/hU1Q9YVzdYhokr8a9gLywnSUMlN.jpg",
             "genre_ids": [
                 16,
@@ -200,12 +200,12 @@
             "poster_path": "/7Md3nuV0ZprBTnkdR3OrUCEsrSP.jpg",
             "release_date": "2023-10-21",
             "title": "Miraculous World: Paris, Tales of Shadybug and Claw Noir",
-            "video": false,
+            "video": False,
             "vote_average": 7.241,
             "vote_count": 430
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
             "genre_ids": [
                 16,
@@ -222,12 +222,12 @@
             "poster_path": "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
             "release_date": "2023-04-05",
             "title": "The Super Mario Bros. Movie",
-            "video": false,
+            "video": False,
             "vote_average": 7.655,
             "vote_count": 8930
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/aswBReNN2adqTiOBnvh96RCDeJP.jpg",
             "genre_ids": [
                 28,
@@ -242,12 +242,12 @@
             "poster_path": "/u9035lysUz3ccloQt0SeIp1Mu8a.jpg",
             "release_date": "2023-06-28",
             "title": "Mayhem!",
-            "video": false,
+            "video": False,
             "vote_average": 6.7,
             "vote_count": 153
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/8AGwtYlvrZWEPo9zQthVd68zxNO.jpg",
             "genre_ids": [
                 27
@@ -260,12 +260,12 @@
             "poster_path": "/8smsOtjp8FbBgL8YKrgCADJWEhe.jpg",
             "release_date": "2023-10-13",
             "title": "Freddy's Fridays",
-            "video": false,
+            "video": False,
             "vote_average": 3.778,
             "vote_count": 9
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/8wwXPG22aNMpPGuXnfm3galoxbI.jpg",
             "genre_ids": [
                 28,
@@ -281,12 +281,12 @@
             "poster_path": "/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",
             "release_date": "2022-03-30",
             "title": "Sonic the Hedgehog 2",
-            "video": false,
+            "video": False,
             "vote_average": 7.507,
             "vote_count": 4898
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
             "genre_ids": [
                 28,
@@ -301,12 +301,12 @@
             "poster_path": "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
             "release_date": "2023-05-17",
             "title": "Fast X",
-            "video": false,
+            "video": False,
             "vote_average": 7.093,
             "vote_count": 5458
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg",
             "genre_ids": [
                 878,
@@ -321,12 +321,12 @@
             "poster_path": "/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg",
             "release_date": "2021-09-30",
             "title": "Venom: Let There Be Carnage",
-            "video": false,
+            "video": False,
             "vote_average": 6.796,
             "vote_count": 9919
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/jr8tSoJGj33XLgFBy6lmZhpGQNu.jpg",
             "genre_ids": [
                 16,
@@ -343,12 +343,12 @@
             "poster_path": "/kuf6dutpsT0vSVehic3EZIqkOBt.jpg",
             "release_date": "2022-12-07",
             "title": "Puss in Boots: The Last Wish",
-            "video": false,
+            "video": False,
             "vote_average": 8.227,
             "vote_count": 7612
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/f7Qwg7kKNIvBnr3Ipv2bpXb23BN.jpg",
             "genre_ids": [
                 27,
@@ -364,12 +364,12 @@
             "poster_path": "/zKpLzzX1va6gkMJiI9p3DudqChe.jpg",
             "release_date": "2023-10-26",
             "title": "Monolith",
-            "video": false,
+            "video": False,
             "vote_average": 5.928,
             "vote_count": 90
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/9Y9wTgrMk4G1YNPDDekNk7dybwx.jpg",
             "genre_ids": [
                 28,
@@ -384,12 +384,12 @@
             "poster_path": "/hqnfqeCILvgKGWKOut5lVdxdeJh.jpg",
             "release_date": "2023-08-11",
             "title": "3 Days in Malay",
-            "video": false,
+            "video": False,
             "vote_average": 5.074,
             "vote_count": 27
         },
         {
-            "adult": false,
+            "adult": False,
             "backdrop_path": "/zBG5Mg29NH9xxpWMMG7BIvKwYhL.jpg",
             "genre_ids": [
                 10749,
@@ -403,7 +403,7 @@
             "poster_path": "/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",
             "release_date": "2022-04-26",
             "title": "365 Days: This Day",
-            "video": false,
+            "video": False,
             "vote_average": 5.882,
             "vote_count": 1482
         }

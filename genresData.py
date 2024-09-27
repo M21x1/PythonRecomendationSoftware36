@@ -1,4 +1,6 @@
-{
+# We give a name the whole structure
+
+genre_data = {
     "genres": [
         {
             "id": 28,
