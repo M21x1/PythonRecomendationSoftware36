@@ -112,9 +112,7 @@ while len(selected_type) == 0:
         print('\n\nMore than one {0} matches that search: '.format(search_by))
         for match in matching:
             print(match)
-        if user_input == 'PG':
-            print("\nIf searching for PG add a space: 'PG ' \nIf searching for PG-13 add a hyphen: 'PG-'")
-
+        
     if len(matching) == 0:
         print('\n\nSorry, there are no {0}s that match that search\n'.format(search_by))
 
